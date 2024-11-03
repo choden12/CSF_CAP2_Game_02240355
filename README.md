@@ -384,8 +384,8 @@ I was able to find the exit of the maze and the treasure inside. The SolveMaze f
 - I have learned many important things from this game, such as the way to approach problem-solving and resiliency. The substitution of an integral character, the farmer, brought about changes that were quite unforeseen and took much creativity to find my way out. Besides, learning to move ahead despite changes and difficulties taught me resiliency. Extra difficulty without a farmer challenged my resolve and helped me grow as a player.
 
 ## references
-Youtube:https://www.youtube.com/@OlexaYT
-Youtube:https://youtu.be/JgsFGppJtsc?list=PLateWiNrGEtoIy8aeWse6dQOCToetjXJg
+1. Youtube:https://www.youtube.com/@OlexaYT
+2. Youtube:https://youtu.be/JgsFGppJtsc?list=PLateWiNrGEtoIy8aeWse6dQOCToetjXJg
 
 
 
